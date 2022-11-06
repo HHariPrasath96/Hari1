@@ -17,9 +17,13 @@ public class Samplegit {
          System.out.println("C#");
 	}
 	
+	private void method4() {
+    System.out.println("c++");
+	}
 	
-	
-	
+    private void method5() {
+     System.out.println("selenium");
+	}
 	
 	
 	
